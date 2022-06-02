@@ -1,4 +1,4 @@
-https://github.com/Rezenter/GTS_calibration_pressure.git/install
+https://github.com/Rezenter/GTS_calibration_pressure/blob/master/install/readme.txt
 
 1)Install Python version 2.7, 3.4, or later from https://www.python.org/downloads/ .
 
