@@ -14,4 +14,4 @@ Install the mcculw library by entering the following command:
 
 4) connect usb
 5) add board in instaCal app
-6) use script
+6) use script "vacuum.py"
